@@ -1,2 +1,3 @@
 orange apple pear
 banana mango cherry
+kiwi melon peach
